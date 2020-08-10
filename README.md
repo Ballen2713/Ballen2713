@@ -5,8 +5,6 @@
 <!--
 **Ballen2713/Ballen2713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Web Development Projects
 - 🌱 I’m currently learning ... C# (Full Stack Development)
 - 💬 Ask me about ...Anything!
